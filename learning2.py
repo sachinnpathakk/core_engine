@@ -10,4 +10,4 @@ str='Pythonbabu'
 print(str[3])
 print(str[0:])
 # There is also another topic named negative indexing ;slicing
-print(str[-10:-1])
+print(str[-10:-2])
